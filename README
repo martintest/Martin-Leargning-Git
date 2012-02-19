@@ -10,8 +10,10 @@ And this is already commit 5.
 2012-02-19 Dodajem commit 7 kao drugi korisnik (martintest).
 OVO DODAVANJE NIJE USPELO (DODATO JE KAO MARTINMAGNIFICENT A NE KAO MARTINTEST).
 
-2012-09-10 Dodajem commit 8 kao drugi korisnik (martintest).
+2012-02-19 Dodajem commit 8 kao drugi korisnik (martintest).
 Sada sam promenio konfituracione parametre Gita tako da se identifikuje kao drugi user.
 Sada je username za github martintest. Ajde da probamo.
 
-2012-09-10 Dodajem commit 9, testiram lokalni config fajl (u folderu .git).
+2012-02-19 Dodajem commit 9, testiram lokalni config fajl (u folderu .git).
+
+2012-02-19 Dodajem commit 10, sada sa svog naloga martinmagnificent.
